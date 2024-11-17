@@ -1,10 +1,6 @@
-# Data Analytics Template
+# Data Directory
 
-A lightweight template for data analytics projects with a simple folder structure.
+This folder contains datasets used in the project.
 
-## Folder Structure
-
-- `data/`: Store datasets (e.g., raw and cleaned data).
-- `notebooks/`: Store Jupyter notebooks for analysis.
-- `scripts/`: Store Python scripts for processing or analysis.
-- `docs/`: Store documentation like data dictionaries or project notes.
+- Raw data: Place raw datasets here.
+- Processed data: Save cleaned datasets here.
